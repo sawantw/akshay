@@ -6,7 +6,7 @@ public class BemoGethub {
 		System.out.println("hii");
 		System.out.println("by");
 		System.out.println("eeee");
-		System.out.println("bdd");
+		System.out.println("bddd");
 	}
 
 }
